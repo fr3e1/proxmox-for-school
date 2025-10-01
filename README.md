@@ -13,8 +13,10 @@ Although there are other options and solutions, proxmox is one of the easiest, c
 # Getting started
 ## Type in the ip address of the server
 
-GSAL5: 10.56.67.41:8006
-GSACRD: current: 10.56.56.168:8006
+#### GSAL5: 10.56.67.41:8006
+
+#### GSACRD: current: 10.56.56.168:8006
+
 todo: give static ip to GSACRD rather than dhcp for consistency
 
 ## Login
