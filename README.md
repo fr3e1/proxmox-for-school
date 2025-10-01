@@ -10,3 +10,14 @@ Proxmox is a flexible tool that can be used by new and advanced users through it
 Although there are other options and solutions, proxmox is one of the easiest, common, and well documented options which can make it easy for both students and teacher to troubleshoot issues, search up solutions to problems, and configuring the server. System admins are easily able to receive help through online forums, documentations, and even the paid enterprise solutions that can be bought. 
 
 
+# Getting started
+## Type in the ip address of the server
+
+GSAL5: 10.56.67.41:8006
+GSACRD: current: 10.56.56.168:8006
+todo: give static ip to GSACRD rather than dhcp for consistency
+
+## Login
+Teacher: login to root via linux PAM auth
+
+Student: login to specified student account via proxmox VE auth
